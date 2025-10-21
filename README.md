@@ -1,29 +1,25 @@
-<h1 align="center">Hi 👋, I'm Sourov Raz</h1>
-<h3 align="center">Web Developer</h3>
+### Hi there 👋, Sourav raz
+#### Web Developer
+![Web Developer](https://scontent.fdac195-1.fna.fbcdn.net/v/t39.30808-6/569261686_788124627331727_8565374747415905832_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ij9q2wWpXXkQ7kNvwGJGzPS&_nc_oc=AdnbqR3rQcUIGd-Djgyh4vKQgP3fLXSIxvhUfIHbdwVUJdLr6jPmbetrSYY1Tgx1ceQ&_nc_zt=23&_nc_ht=scontent.fdac195-1.fna&_nc_gid=8HWYdc5-US68xgQxWRgHog&oh=00_AfcWLrdgjNFTh6lZ8-RvngeBPY3EQYZg4BWMbeH98JfHbQ&oe=68FD7731)
 
-<p align="left"> <img src="C:\Users\DCL_Laptop\Downloads\Orange and Navy Modern Business Agency Twitter Ad (2).png" alt="sourovraz" /> </p>
+💻 Hi, I'm Sourav Raz — an aspiring web developer from Bangladesh. I've completed HTML & CSS and just started learning JavaScript. Web development is my dream.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Skills: HTML / CSS
 
-- 🔭 I’m currently working on [Facebook](https://www.facebook.com/srsourov.raj)
+- 🔭 I’m currently working on Frontend Web Application Development 
+- 🌱 I’m currently learning JavaScript, React, and modern UL/UX design 
+- 👯 I’m looking to collaborate on Open-source web projects and creative frontend design 
+- 🤔 I’m looking for help with Improving backend integration and API development 
+- 💬 Ask me about HTML, CSS, responsive web designs  
+- 📫 How to reach me: srsourov241@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love turning ideas into interactive web experiences!  
 
-- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on [GitHub](https://github.com/sourav-raj13)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sourav-raj13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourav-rajbongshi-7b3459374/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/srsourav.raz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sr_sourav_13/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@SourovRajbongshi-h7d)  
 
-- 💬 Ask me about **Web Development**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sourav-raj13&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/srsourov.raz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srsourov.raz" height="30" width="40" /></a>
-<a href="https://instagram.com/srsourovraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srsourovraj" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourovraz&show_icons=true&locale=en&layout=compact" alt="sourovraz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourovraz&" alt="sourovraz" /></p>
 
 
