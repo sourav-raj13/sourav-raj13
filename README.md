@@ -1,5 +1,5 @@
-### Hi there 👋, Sourav raz
-#### Web Developer
+## Hi there 👋, Sourav raz
+### Web Developer
 ![Web Developer](https://scontent.fdac195-1.fna.fbcdn.net/v/t39.30808-6/569261686_788124627331727_8565374747415905832_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ij9q2wWpXXkQ7kNvwGJGzPS&_nc_oc=AdnbqR3rQcUIGd-Djgyh4vKQgP3fLXSIxvhUfIHbdwVUJdLr6jPmbetrSYY1Tgx1ceQ&_nc_zt=23&_nc_ht=scontent.fdac195-1.fna&_nc_gid=8HWYdc5-US68xgQxWRgHog&oh=00_AfcWLrdgjNFTh6lZ8-RvngeBPY3EQYZg4BWMbeH98JfHbQ&oe=68FD7731)
 
 💻 Hi, I'm Sourav Raz — an aspiring web developer from Bangladesh. I've completed HTML & CSS and just started learning JavaScript. Web development is my dream.
@@ -14,9 +14,7 @@ Skills: HTML / CSS
 - 📫 How to reach me: srsourov241@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love turning ideas into interactive web experiences!  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sourav-raj13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourav-rajbongshi-7b3459374/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/srsourav.raz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sr_sourav_13/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@SourovRajbongshi-h7d)  
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sourav-raj13&show_icons=true)  
 
