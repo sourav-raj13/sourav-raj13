@@ -1,8 +1,5 @@
 
-
-
-
-### Hi there 👋,I'am Sourav raz
+### Hi👋,I'am Sourav raz
 #### Web Developer
 ![Web Developer](https://scontent.fdac195-1.fna.fbcdn.net/v/t39.30808-6/569261686_788124627331727_8565374747415905832_n.png?stp=dst-png_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=ij9q2wWpXXkQ7kNvwGJGzPS&_nc_oc=AdnbqR3rQcUIGd-Djgyh4vKQgP3fLXSIxvhUfIHbdwVUJdLr6jPmbetrSYY1Tgx1ceQ&_nc_zt=23&_nc_ht=scontent.fdac195-1.fna&_nc_gid=8HWYdc5-US68xgQxWRgHog&oh=00_AfcWLrdgjNFTh6lZ8-RvngeBPY3EQYZg4BWMbeH98JfHbQ&oe=68FD7731)
 
